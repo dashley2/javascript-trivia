@@ -8,7 +8,7 @@ A timed quiz on JavaScript fundamentals that users can use to store highscores a
 * JavaScript
 
 ## Website
-https://javascript-trivia.netlify.app/end.html
+https://javascript-trivia.netlify.app
 
 ## Contribution
 Made by Ashley Darr
