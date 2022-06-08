@@ -12,3 +12,5 @@ https://javascript-trivia.netlify.app/end.html
 
 ## Contribution
 Made by Ashley Darr
+
+![javascript-trivia netlify app_index html](https://user-images.githubusercontent.com/103084529/172678704-88c2baeb-2955-413c-9cf1-26fdde6d86d1.png)
