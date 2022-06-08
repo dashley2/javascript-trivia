@@ -1,6 +1,6 @@
 # javascript-trivia
 ## Purpose
-A timed quiz on JavaScript fundamentals that users can use to store highscores and gauge progress compared to peers. 
+A timed quiz on JavaScript fundamentals that users can use to store highscores and gauge progress compared to peers.
 
 ## Built With
 * HTML
@@ -11,4 +11,4 @@ A timed quiz on JavaScript fundamentals that users can use to store highscores a
 https://javascript-trivia.netlify.app/end.html
 
 ## Contribution
-Made by Ashley Darr 
+Made by Ashley Darr
