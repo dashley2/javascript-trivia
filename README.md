@@ -1,15 +1,14 @@
-# Space-Trivia
+# javascript-trivia
 ## Purpose
-A website that displays my portfolio and skills. 
+A timed quiz on JavaScript fundamentals that users can use to store highscores and gauge progress compared to peers. 
 
 ## Built With
 * HTML
 * CSS
+* JavaScript
 
 ## Website
-https://ashleydarr.netlify.app/
+https://javascript-trivia.netlify.app/end.html
 
 ## Contribution
-Made with by Ashley Darr 
-
-![Darr_Portfolio](https://user-images.githubusercontent.com/103084529/166181310-548a8a32-dbde-4f6d-90ce-ff6ec3ba76c6.png)
+Made by Ashley Darr 
